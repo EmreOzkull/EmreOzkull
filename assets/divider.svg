@@ -1,0 +1,16 @@
+<svg width="1200" height="24" viewBox="0 0 1200 24" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="">
+  <defs>
+    <filter id="g" x="-200%" y="-200%" width="500%" height="500%">
+      <feDropShadow dx="0" dy="0" stdDeviation="3" flood-color="#00E5FF" flood-opacity="0.9"/>
+    </filter>
+  </defs>
+  <path d="M8,12 H1192" stroke="#1e2836" stroke-width="2" fill="none"/>
+  <circle cx="8" cy="12" r="3.5" fill="#24384f"/>
+  <circle cx="1192" cy="12" r="3.5" fill="#24384f"/>
+  <circle cx="588" cy="12" r="2" fill="#24384f"/>
+  <circle cx="600" cy="12" r="2" fill="#24384f"/>
+  <circle cx="612" cy="12" r="2" fill="#24384f"/>
+  <circle r="3" fill="#00E5FF" filter="url(#g)">
+    <animateMotion dur="6s" repeatCount="indefinite" path="M8,12 H1192"/>
+  </circle>
+</svg>

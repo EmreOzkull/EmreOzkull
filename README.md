@@ -138,6 +138,13 @@ Emre_Ozkul:
 | `2020` | **Otonom Araç — Labirent Çözücü** | Ortamı matris olarak bellekte eşleyip çıkış yolunu hesaplar | `Raspberry Pi` |
 | `2019` | **SMPS Devre Kartı — 72 V / 10 A** | 5 katlı PCB · TÜBİTAK Verimlilik Yarışları elektrikli aracının güç birimi | `Güç Elektroniği` `PCB` |
 
+<div align="center">
+  <br/>
+  <a href="https://github.com/EmreOzkull/elektronik-projeler">
+    <img src="https://img.shields.io/badge/Her%20projenin%20teknik%20detay%C4%B1%20%E2%86%92%20elektronik--projeler-00E5FF?style=for-the-badge&logo=github&logoColor=black" alt="Teknik arşiv deposu"/>
+  </a>
+</div>
+
 <img src="https://raw.githubusercontent.com/EmreOzkull/EmreOzkull/main/assets/divider.svg" alt="" width="100%"/>
 
 ## 📄 Akademik Makaleler

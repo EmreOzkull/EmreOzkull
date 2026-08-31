@@ -7,9 +7,9 @@
   </defs>
   <style>
     .mono{font-family:'Cascadia Code','JetBrains Mono','Fira Code',Consolas,monospace}
-    .lbl{font-size:12px;fill:#c9d1d9}
-    .lvl{font-size:10px;fill:#56728f;letter-spacing:1px}
-    .bar{animation:grow 1.4s cubic-bezier(.22,1,.36,1) both}
+    .lbl{font-size:11px;fill:#c9d1d9}
+    .lvl{font-size:9px;fill:#56728f;letter-spacing:1px}
+    .bar{animation:grow 1.4s cubic-bezier(.22,1,.36,1) both;transform-origin:158px 0}
     @keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
     .b1{animation-delay:.05s}.b2{animation-delay:.15s}.b3{animation-delay:.25s}
     .b4{animation-delay:.35s}.b5{animation-delay:.45s}.b6{animation-delay:.55s}
@@ -19,39 +19,39 @@
   <g clip-path="url(#kc)">
     <rect width="520" height="200" fill="#0d1117"/>
     <rect width="520" height="200" fill="url(#kd)"/>
-    <text x="24" y="38" class="mono" font-size="14" fill="#00E5FF">&gt; cat yetkinlikler.cfg<tspan class="blink" fill="#FFB000">▮</tspan></text>
-    <path d="M24,52 H496" stroke="#1e2836" stroke-width="1.5"/>
+    <text x="24" y="34" class="mono" font-size="13" fill="#00E5FF">&gt; cat yetkinlikler.cfg<tspan class="blink" fill="#FFB000">▮</tspan></text>
+    <path d="M24,46 H496" stroke="#1e2836" stroke-width="1.5"/>
 
     <g class="mono">
-      <text x="24" y="76" class="lbl">C / C++ / PIC C</text>
-      <rect x="180" y="66" width="284" height="9" rx="4.5" fill="#131c29"/>
-      <rect x="180" y="66" width="284" height="9" rx="4.5" fill="#00E5FF" class="bar b1" style="transform-origin:180px 0"/>
-      <text x="476" y="75" class="lvl" text-anchor="end">İLERİ</text>
+      <text x="24" y="72" class="lbl">C / C++ / PIC C</text>
+      <rect x="158" y="64" width="248" height="8" rx="4" fill="#131c29"/>
+      <rect x="158" y="64" width="248" height="8" rx="4" fill="#00E5FF" class="bar b1"/>
+      <text x="496" y="72" class="lvl" text-anchor="end">İLERİ</text>
 
-      <text x="24" y="100" class="lbl">Python</text>
-      <rect x="180" y="90" width="284" height="9" rx="4.5" fill="#131c29"/>
-      <rect x="180" y="90" width="284" height="9" rx="4.5" fill="#00E5FF" class="bar b2" style="transform-origin:180px 0"/>
-      <text x="476" y="99" class="lvl" text-anchor="end">İLERİ</text>
+      <text x="24" y="97" class="lbl">Python</text>
+      <rect x="158" y="89" width="248" height="8" rx="4" fill="#131c29"/>
+      <rect x="158" y="89" width="248" height="8" rx="4" fill="#00E5FF" class="bar b2"/>
+      <text x="496" y="97" class="lvl" text-anchor="end">İLERİ</text>
 
-      <text x="24" y="124" class="lbl">Proteus / EasyEDA</text>
-      <rect x="180" y="114" width="284" height="9" rx="4.5" fill="#131c29"/>
-      <rect x="180" y="114" width="284" height="9" rx="4.5" fill="#00E5FF" class="bar b3" style="transform-origin:180px 0"/>
-      <text x="476" y="123" class="lvl" text-anchor="end">İLERİ</text>
+      <text x="24" y="122" class="lbl">Proteus / EasyEDA</text>
+      <rect x="158" y="114" width="248" height="8" rx="4" fill="#131c29"/>
+      <rect x="158" y="114" width="248" height="8" rx="4" fill="#00E5FF" class="bar b3"/>
+      <text x="496" y="122" class="lvl" text-anchor="end">İLERİ</text>
 
-      <text x="24" y="148" class="lbl">LaTeX</text>
-      <rect x="180" y="138" width="284" height="9" rx="4.5" fill="#131c29"/>
-      <rect x="180" y="138" width="284" height="9" rx="4.5" fill="#00E5FF" class="bar b4" style="transform-origin:180px 0"/>
-      <text x="476" y="147" class="lvl" text-anchor="end">İLERİ</text>
+      <text x="24" y="147" class="lbl">LaTeX</text>
+      <rect x="158" y="139" width="248" height="8" rx="4" fill="#131c29"/>
+      <rect x="158" y="139" width="248" height="8" rx="4" fill="#00E5FF" class="bar b4"/>
+      <text x="496" y="147" class="lvl" text-anchor="end">İLERİ</text>
 
       <text x="24" y="172" class="lbl">MATLAB</text>
-      <rect x="180" y="162" width="284" height="9" rx="4.5" fill="#131c29"/>
-      <rect x="180" y="162" width="185" height="9" rx="4.5" fill="#FFB000" class="bar b5" style="transform-origin:180px 0"/>
-      <text x="476" y="171" class="lvl" text-anchor="end">ORTA</text>
+      <rect x="158" y="164" width="248" height="8" rx="4" fill="#131c29"/>
+      <rect x="158" y="164" width="161" height="8" rx="4" fill="#FFB000" class="bar b5"/>
+      <text x="496" y="172" class="lvl" text-anchor="end">ORTA</text>
 
-      <text x="24" y="196" class="lbl">Altium Designer</text>
-      <rect x="180" y="186" width="284" height="9" rx="4.5" fill="#131c29"/>
-      <rect x="180" y="186" width="95" height="9" rx="4.5" fill="#3b4f66" class="bar b6" style="transform-origin:180px 0"/>
-      <text x="476" y="195" class="lvl" text-anchor="end">TEMEL</text>
+      <text x="24" y="190" class="lbl">Altium Designer</text>
+      <rect x="158" y="182" width="248" height="8" rx="4" fill="#131c29"/>
+      <rect x="158" y="182" width="83" height="8" rx="4" fill="#3b4f66" class="bar b6"/>
+      <text x="496" y="190" class="lvl" text-anchor="end">TEMEL</text>
     </g>
   </g>
   <rect x="1" y="1" width="518" height="198" rx="14" fill="none" stroke="#1e2836" stroke-width="2"/>

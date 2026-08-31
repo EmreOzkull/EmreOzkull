@@ -22,19 +22,26 @@
 
 ## `>` whoami
 
-```yaml
-Emre_Ozkul:
-  rol:      "Robotik Sistemler Elektronik Takım Lideri @ Assuva Uzay ve Havacılık Sanayi"
-  konum:    "Nevşehir / Türkiye"
-  egitim:   "Elektrik-Elektronik Mühendisliği (İngilizce) — KTO Karatay Üniversitesi"
-  erasmus:  "Utena University of Applied Sciences — Litvanya"
-  diller:   ["Türkçe (ana dil)", "İngilizce (C1)"]
-  odak:
-    - "Gömülü Sistemler & Donanım Tasarımı"
-    - "PCB Tasarımı — Proteus · EasyEDA · Altium"
-    - "Robotik — Sensör Entegrasyonu & Step/Servo Motor Sürücüleri"
-    - "Görüntü İşleme Destekli Otonom Sistemler"
-  felsefe:  "Konseptten prototipe — çalışan donanım, güvenilir sistem."
+```python
+from dataclasses import dataclass
+
+
+@dataclass(frozen=True)
+class EmreOzkul:
+    rol:      str = "Robotik Sistemler Elektronik Takım Lideri @ Assuva Uzay ve Havacılık Sanayi"
+    konum:    str = "Nevşehir / Türkiye"
+    egitim:   str = "Elektrik-Elektronik Mühendisliği (İngilizce) — KTO Karatay Üniversitesi"
+    erasmus:  str = "Utena University of Applied Sciences — Litvanya"
+    diller:   tuple[str, ...] = ("Türkçe (ana dil)", "İngilizce (C1)")
+    odak:     tuple[str, ...] = (
+        "Gömülü Sistemler & Donanım Tasarımı",
+        "PCB Tasarımı — Proteus · EasyEDA · Altium",
+        "Robotik — Sensör Entegrasyonu & Step/Servo Motor Sürücüleri",
+        "Görüntü İşleme Destekli Otonom Sistemler",
+    )
+
+    def felsefe(self) -> str:
+        return "Konseptten prototipe — çalışan donanım, güvenilir sistem."
 ```
 
 ## 🛰️ Hakkımda

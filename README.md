@@ -18,6 +18,8 @@
   <img src="https://komarev.com/ghpvc/?username=EmreOzkull&label=Ziyaret%C3%A7i&color=00e5ff&style=flat-square" alt="Ziyaretçi"/>
 </div>
 
+<p align="center"><b>Türkçe</b> · <a href="README.en.md">English</a></p>
+
 <img src="https://raw.githubusercontent.com/EmreOzkull/EmreOzkull/main/assets/divider.svg" alt="" width="100%"/>
 
 ## `>` whoami

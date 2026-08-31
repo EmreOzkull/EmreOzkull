@@ -13,19 +13,26 @@
 
 ## `>` whoami
 
-```yaml
-Emre_Ozkul:
-  role:       "Robotics Systems Electronics Team Lead @ Assuva Aerospace"
-  location:   "Nevşehir / Türkiye"
-  education:  "BSc Electrical & Electronics Engineering (English) — KTO Karatay University"
-  erasmus:    "Utena University of Applied Sciences — Lithuania"
-  languages:  ["Turkish (native)", "English (C1)"]
-  focus:
-    - "Embedded Systems & Hardware Design"
-    - "PCB Design — Proteus · EasyEDA · Altium"
-    - "Robotics — Sensor Integration & Stepper/Servo Motor Drivers"
-    - "Vision-Assisted Autonomous Systems"
-  philosophy: "From concept to prototype — hardware that works, systems you can trust."
+```python
+from dataclasses import dataclass
+
+
+@dataclass(frozen=True)
+class EmreOzkul:
+    role:       str = "Robotics Systems Electronics Team Lead @ Assuva Aerospace"
+    location:   str = "Nevşehir / Türkiye"
+    education:  str = "BSc Electrical & Electronics Engineering (English) — KTO Karatay University"
+    erasmus:    str = "Utena University of Applied Sciences — Lithuania"
+    languages:  tuple[str, ...] = ("Turkish (native)", "English (C1)")
+    focus:      tuple[str, ...] = (
+        "Embedded Systems & Hardware Design",
+        "PCB Design — Proteus · EasyEDA · Altium",
+        "Robotics — Sensor Integration & Stepper/Servo Motor Drivers",
+        "Vision-Assisted Autonomous Systems",
+    )
+
+    def philosophy(self) -> str:
+        return "From concept to prototype — hardware that works, systems you can trust."
 ```
 
 ## 🛰️ About

@@ -8,7 +8,7 @@
 <!-- ======================= ÜST BANNER ======================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:0a2f3d,100:00e5ff&height=220&section=header&text=EMRE%20%C3%96ZKUL&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Elektrik-Elektronik%20M%C3%BChendisi%20%2F%2F%20Robotik%20%26%20G%C3%B6m%C3%BCl%C3%BC%20Sistemler&descSize=18&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:0a2f3d,100:00e5ff&height=220&section=header&text=EMRE%20%C3%96ZKUL&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Elektrik-Elektronik%20M%C3%BChendisi%20%2F%2F%20Robotik%20%C2%B7%20G%C3%B6m%C3%BCl%C3%BC%20Sistemler&descSize=18&descAlignY=58" width="100%"/>
 
 <!-- ======================= TYPING EFEKTİ ======================= -->
 <a href="https://www.linkedin.com/in/emre-%C3%B6zkul-418522195/">

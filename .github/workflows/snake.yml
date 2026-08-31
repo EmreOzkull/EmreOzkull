@@ -1,4 +1,4 @@
-name: generate snake
+name: katkı yılanı
 
 on:
   schedule:
@@ -6,23 +6,31 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
+    paths:
+      - .github/workflows/snake.yml
 
 permissions:
   contents: write
 
+concurrency:
+  group: snake
+  cancel-in-progress: true
+
 jobs:
-  generate:
+  uret:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - name: Katkı ızgarasından SVG üret
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: output dalına yayınla
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist

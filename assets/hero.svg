@@ -17,14 +17,11 @@
     .sigA{stroke:#FFB000;animation-duration:6.4s}
     .sigF{animation-duration:3.2s}
     @keyframes flow{from{stroke-dashoffset:628}to{stroke-dashoffset:0}}
-    .cyc{opacity:0;animation:cyc 12s linear infinite}
-    .c2{animation-delay:4s}
-    .c3{animation-delay:8s}
-    @keyframes cyc{0%{opacity:0}3%{opacity:1}30%{opacity:1}34%{opacity:0}100%{opacity:0}}
     .blink{animation:blink 1.8s steps(2,start) infinite}
     @keyframes blink{50%{opacity:0.12}}
     .scroll{animation:scroll 4s linear infinite}
     @keyframes scroll{from{transform:translateX(0)}to{transform:translateX(-256px)}}
+    @media (prefers-reduced-motion:reduce){.sig,.blink,.scroll{animation:none}}
   </style>
 
   <g clip-path="url(#card)">
@@ -98,11 +95,7 @@
     <!-- metin bloğu -->
     <text x="90" y="98" class="mono" font-size="15" fill="#56728f">// elektrik-elektronik mühendisi</text>
     <text x="88" y="154" class="sans" font-size="56" font-weight="700" fill="#f0f6fc">Emre Özkul</text>
-    <g class="mono" font-size="20">
-      <text x="90" y="196" class="cyc" fill="#00E5FF">Robotik Sistemler Elektronik Takım Lideri @ Assuva</text>
-      <text x="90" y="196" class="cyc c2" fill="#FFB000">Gömülü Sistemler · PCB Tasarımı · Sensör Entegrasyonu</text>
-      <text x="90" y="196" class="cyc c3" fill="#7ee787">Raspberry Pi · Arduino · PIC · NVIDIA Jetson</text>
-    </g>
+    <text x="90" y="196" class="mono" font-size="20" fill="#00E5FF">Robotik Sistemler Elektronik Takım Lideri · Assuva</text>
 
     <!-- rozet çipleri -->
     <g class="mono" font-size="13" letter-spacing="1">

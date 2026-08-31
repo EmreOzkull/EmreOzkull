@@ -15,6 +15,7 @@
     .b4{animation-delay:.35s}.b5{animation-delay:.45s}.b6{animation-delay:.55s}
     .blink{animation:b 1.6s steps(2,start) infinite}
     @keyframes b{50%{opacity:.15}}
+      @media (prefers-reduced-motion:reduce){.bar,.blink{animation:none}}
   </style>
   <g clip-path="url(#kc)">
     <rect width="520" height="200" fill="#0d1117"/>

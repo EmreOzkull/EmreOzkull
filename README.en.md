@@ -11,8 +11,6 @@
 
 <p align="center"><b>English</b> · <a href="README.md">Türkçe</a></p>
 
-<img src="https://raw.githubusercontent.com/EmreOzkull/EmreOzkull/main/assets/divider.svg" alt="" width="100%"/>
-
 ## `>` whoami
 
 ```yaml
@@ -30,8 +28,6 @@ Emre_Ozkul:
   philosophy: "From concept to prototype — hardware that works, systems you can trust."
 ```
 
-<img src="https://raw.githubusercontent.com/EmreOzkull/EmreOzkull/main/assets/divider.svg" alt="" width="100%"/>
-
 ## 🛰️ About
 
 > I work as **Robotics Systems Electronics Team Lead** at **Assuva Aerospace**, leading electronic
@@ -41,8 +37,6 @@ Emre_Ozkul:
 >
 > On the R&D side I work with cross-disciplinary teams to carry projects **from concept to prototype**.
 > I have **two academic papers** published in international journals on smart agriculture systems.
-
-<img src="https://raw.githubusercontent.com/EmreOzkull/EmreOzkull/main/assets/divider.svg" alt="" width="100%"/>
 
 ## ⚙️ Toolbox
 
@@ -69,8 +63,6 @@ Emre_Ozkul:
 ![PIC](https://img.shields.io/badge/PIC%20%C2%B7%20Microchip-8A0304?style=for-the-badge)
 ![Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/EmreOzkull/EmreOzkull/main/assets/divider.svg" alt="" width="100%"/>
-
 ## 🗂️ Experience
 
 ```
@@ -88,8 +80,6 @@ Emre_Ozkul:
           └─ assistant to the Head of Electrical & Electronics Engineering Department
 ```
 
-<img src="https://raw.githubusercontent.com/EmreOzkull/EmreOzkull/main/assets/divider.svg" alt="" width="100%"/>
-
 ## 🔧 Selected Projects
 
 | Year | Project | Highlight | Tech |
@@ -102,8 +92,6 @@ Emre_Ozkul:
 | `2021` | **Hologram Clock & Real-Time Hologram** | POV LED clock + pipeline preparing camera frames for a hologram prism | `POV LED` `Python` `OpenCV` |
 | `2020` | **Autonomous Vehicle — Maze Solver** | Maps the environment as a matrix in memory and computes the exit path | `Raspberry Pi` |
 | `2019` | **SMPS Board — 72 V / 10 A** | 5-layer PCB · power unit of the electric vehicle for TÜBİTAK Efficiency Challenge | `Power Electronics` `PCB` |
-
-<img src="https://raw.githubusercontent.com/EmreOzkull/EmreOzkull/main/assets/divider.svg" alt="" width="100%"/>
 
 ## 📄 Publications
 

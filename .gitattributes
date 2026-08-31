@@ -1,0 +1,7 @@
+# Profil deposunun dil istatistiklerini görsel/betik dosyaları kirletmesin.
+assets/**   linguist-vendored
+*.svg       linguist-detectable=false
+
+# Ham SVG'ler ve markdown'lar diff'te metin olarak görünsün.
+*.svg       text
+*.md        text

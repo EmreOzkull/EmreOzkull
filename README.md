@@ -115,10 +115,6 @@ Emre_Ozkul:
 
 <img src="https://streak-stats.demolab.com?user=EmreOzkull&hide_border=true&background=0d1117&stroke=30363d&ring=00E5FF&fire=FFB000&currStreakLabel=00E5FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="streak" width="90%"/>
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=EmreOzkull&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophy" width="95%"/>
-
 </div>
 
 <br/>
@@ -127,8 +123,6 @@ Emre_Ozkul:
 ## 📈 Kod Aktivitesi
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EmreOzkull&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffb000&area=true&hide_border=true" alt="activity graph" width="100%"/>
 
 <!-- Yılan animasyonu (.github/workflows/snake.yml ile otomatik üretilir) -->
 <img src="https://raw.githubusercontent.com/EmreOzkull/EmreOzkull/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>

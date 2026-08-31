@@ -1,0 +1,45 @@
+name: SVG kontrolü
+
+on:
+  push:
+    paths:
+      - "assets/**.svg"
+  pull_request:
+    paths:
+      - "assets/**.svg"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  dogrula:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: XML geçerliliğini doğrula
+        run: |
+          python - <<'PY'
+          import glob, sys, xml.dom.minidom
+          hata = 0
+          for yol in sorted(glob.glob("assets/**/*.svg", recursive=True)):
+              try:
+                  xml.dom.minidom.parse(yol)
+                  print(f"ok      {yol}")
+              except Exception as e:
+                  print(f"HATA    {yol}: {e}")
+                  hata = 1
+          sys.exit(hata)
+          PY
+
+      - name: Ham & işlenmemiş entity taraması
+        run: |
+          # capsule-render benzeri araclarda oldugu gibi, kacilmamis & isareti
+          # SVG'yi tarayicida komple kirar.
+          if grep -nP '&(?!amp;|lt;|gt;|quot;|apos;|#)' assets/*.svg; then
+            echo "::error::Kaçırılmamış & işareti bulundu — &amp; kullanın."
+            exit 1
+          fi
+          echo "entity taraması temiz"

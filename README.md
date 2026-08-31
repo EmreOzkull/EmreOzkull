@@ -20,8 +20,6 @@
 
 <p align="center"><b>Türkçe</b> · <a href="README.en.md">English</a></p>
 
-<img src="https://raw.githubusercontent.com/EmreOzkull/EmreOzkull/main/assets/divider.svg" alt="" width="100%"/>
-
 ## `>` whoami
 
 ```yaml
@@ -39,8 +37,6 @@ Emre_Ozkul:
   felsefe:  "Konseptten prototipe — çalışan donanım, güvenilir sistem."
 ```
 
-<img src="https://raw.githubusercontent.com/EmreOzkull/EmreOzkull/main/assets/divider.svg" alt="" width="100%"/>
-
 ## 🛰️ Hakkımda
 
 > **Assuva Uzay ve Havacılık Sanayi**'nde Robotik Sistemler Elektronik Takım Lideri olarak görev alıyorum.
@@ -50,8 +46,6 @@ Emre_Ozkul:
 >
 > Ar-Ge tarafında disiplinler arası ekiplerle çalışarak projeleri **konseptten prototipe** taşıyorum.
 > Akıllı tarım sistemleri üzerine uluslararası dergilerde yayınlanmış **2 akademik makalem** bulunuyor.
-
-<img src="https://raw.githubusercontent.com/EmreOzkull/EmreOzkull/main/assets/divider.svg" alt="" width="100%"/>
 
 ## ⚙️ Teknik Cephanelik
 
@@ -104,8 +98,6 @@ Emre_Ozkul:
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/EmreOzkull/EmreOzkull/main/assets/divider.svg" alt="" width="100%"/>
-
 ## 🗂️ Deneyim
 
 ```
@@ -122,8 +114,6 @@ Emre_Ozkul:
 2019 ─┴─▸ Asistan Öğrenci · KTO Karatay Üniversitesi  (2019–2020)
           └─ Elektrik-Elektronik Mühendisliği Bölüm Başkanı öğrenci asistanlığı
 ```
-
-<img src="https://raw.githubusercontent.com/EmreOzkull/EmreOzkull/main/assets/divider.svg" alt="" width="100%"/>
 
 ## 🔧 Öne Çıkan Projeler
 
@@ -145,14 +135,10 @@ Emre_Ozkul:
   </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/EmreOzkull/EmreOzkull/main/assets/divider.svg" alt="" width="100%"/>
-
 ## 📄 Akademik Makaleler
 
 - **Autonomous Hydroponic Farming System and Lettuce Growing** — *Utenos Kolegija*, 2023 · [ResearchGate ↗](https://www.researchgate.net/publication/378336261_AUTONOMOUS_HYDROPONIC_FARMING_SYSTEM_AND_LETTUCE_GROWING)
 - **Determination of the Area Index of Lettuce Leaves with a Monocular Camera** — *Kauno Kolegija*, 2023
-
-<img src="https://raw.githubusercontent.com/EmreOzkull/EmreOzkull/main/assets/divider.svg" alt="" width="100%"/>
 
 ## 📊 GitHub
 

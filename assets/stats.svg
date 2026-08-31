@@ -1,0 +1,36 @@
+<svg width="520" height="200" viewBox="0 0 520 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub istatistikleri">
+  <defs>
+    <pattern id="sd" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.4" fill="#151d2a"/>
+    </pattern>
+    <clipPath id="sc"><rect width="520" height="200" rx="14"/></clipPath>
+  </defs>
+  <style>
+    .mono{font-family:'Cascadia Code','JetBrains Mono','Fira Code',Consolas,monospace}
+    .k{font-size:13px;fill:#56728f;letter-spacing:1px}
+    .v{font-size:30px;font-weight:700;fill:#f0f6fc}
+    .blink{animation:b 1.6s steps(2,start) infinite}
+    @keyframes b{50%{opacity:.15}}
+  </style>
+  <g clip-path="url(#sc)">
+    <rect width="520" height="200" fill="#0d1117"/>
+    <rect width="520" height="200" fill="url(#sd)"/>
+    <path d="M0,168 H140 L164,144 H340" fill="none" stroke="#1d2b3d" stroke-width="2"/>
+    <circle cx="340" cy="144" r="3" fill="#24384f"/>
+    <text x="24" y="38" class="mono" font-size="14" fill="#00E5FF">&gt; gh api /users/EmreOzkull<tspan class="blink" fill="#FFB000">▮</tspan></text>
+    <path d="M24,52 H496" stroke="#1e2836" stroke-width="1.5"/>
+
+    <text x="24"  y="96"  class="mono v">3</text>
+    <text x="24"  y="116" class="mono k">DEPO</text>
+    <text x="148" y="96"  class="mono v" fill="#FFB000">6</text>
+    <text x="148" y="116" class="mono k">KATKI / YIL</text>
+    <text x="272" y="96"  class="mono v" fill="#00E5FF">0</text>
+    <text x="272" y="116" class="mono k">BİRLEŞEN PR</text>
+    <text x="396" y="96"  class="mono v">2</text>
+    <text x="396" y="116" class="mono k">TAKİPÇİ</text>
+
+    <text x="24"  y="176" class="mono" font-size="12" fill="#3b4f66">2019'dan beri GitHub'da</text>
+    <text x="496" y="176" class="mono" font-size="12" fill="#3b4f66" text-anchor="end">@EmreOzkull</text>
+  </g>
+  <rect x="1" y="1" width="518" height="198" rx="14" fill="none" stroke="#1e2836" stroke-width="2"/>
+</svg>

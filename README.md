@@ -149,8 +149,8 @@ Emre_Ozkul:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=EmreOzkull&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=c9d1d9&icon_color=FFB000" alt="GitHub istatistikleri"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmreOzkull&layout=compact&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=c9d1d9&langs_count=8" alt="En çok kullanılan diller"/>
+<img src="https://raw.githubusercontent.com/EmreOzkull/EmreOzkull/main/assets/stats.svg" alt="GitHub istatistikleri" width="49%"/>
+<img src="https://raw.githubusercontent.com/EmreOzkull/EmreOzkull/main/assets/skills.svg" alt="Yetkinlik düzeyleri" width="49%"/>
 
 <br/>
 

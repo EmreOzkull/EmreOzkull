@@ -1,0 +1,43 @@
+name: istatistik karti
+
+on:
+  schedule:
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/gen_stats.py
+      - .github/workflows/stats.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: stats
+  cancel-in-progress: true
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Kartı üret
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: python scripts/gen_stats.py
+
+      - name: Değiştiyse commit'le
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [[ -n "$(git status --porcelain assets/stats.svg)" ]]; then
+            git add assets/stats.svg
+            git commit -m "chore: istatistik kartını güncelle"
+            git push
+          else
+            echo "değişiklik yok"
+          fi

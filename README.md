@@ -107,20 +107,7 @@ class EmreOzkul:
 
 ## 🗂️ Deneyim
 
-```
-2025 ─┬─▸ Robotik Sistemler Elektronik Takım Lideri · Assuva Uzay ve Havacılık Sanayi
-      │   └─ robotik kol & robotik köpek · PCB tasarımı · sensör entegrasyonu · teknik liderlik
-2023 ─┼─▸ Yaz Stajı — Gömülü Sistemler / Donanım Tasarım Müh. · Utenos Kolegija, Litvanya
-      │   └─ otonom hidroponik tarım · gömülü otomasyon · 2 uluslararası akademik makale
-2022 ─┼─▸ Yaz Stajı — Gömülü Sistemler · YONGATEK Microelectronics
-      │   └─ savunma sanayi projesi devre tasarımı · UPBoard üzerinde I2C sensör optimizasyonu
-2020 ─┼─▸ Gömülü Sistem Geliştirme Mühendisi · Konya Bilim Merkezi  (2020–2023)
-      │   └─ Raspberry Pi · PIC · Jetson Nano · Arduino — robotik projeler & sergi düzenekleri
-2020 ─┼─▸ Yazar & Editör · Mert Mekatronik  (2020–2021)
-      │   └─ teknik makaleler · editörlük · sosyal medya koordinatörlüğü
-2019 ─┴─▸ Asistan Öğrenci · KTO Karatay Üniversitesi  (2019–2020)
-          └─ Elektrik-Elektronik Mühendisliği Bölüm Başkanı öğrenci asistanlığı
-```
+<img src="https://raw.githubusercontent.com/EmreOzkull/EmreOzkull/main/assets/deneyim.svg" alt="Deneyim zaman çizelgesi" width="100%"/>
 
 ## 🔧 Öne Çıkan Projeler
 

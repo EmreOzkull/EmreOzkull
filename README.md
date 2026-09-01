@@ -111,16 +111,7 @@ class EmreOzkul:
 
 ## 🔧 Öne Çıkan Projeler
 
-| Yıl | Proje | Öne çıkan detay | Teknoloji |
-|:---:|:------|:----------------|:----------|
-| `2023` | **6 Eksen Hareket Ezberleyen Robot Kol** | 5 step + 1 servo, 3 joystick; hareketleri kaydedip tek butonla tekrarlar | `PIC18F46K22` `CCS C` `PCB` |
-| `2023` | **Görüntü İşleme Destekli Otonom Savunma Sistemi** | Dost / düşman / sivil ayrımı, 2 eksenli taret, UART ile MCU'ya komut | `Python` `OpenCV` `PIC` `UART` |
-| `2022` | **DotMatrix Elektronik Kum Saati** | 2× 8×8 matris, 60 sn / 60 dk mod; süre dolunca servo saati 180° çevirir | `PIC18F46K22` `Servo` |
-| `2021` | **Autonomous Agricultural Project** | RF ile uzaktan kontrol edilen sera otomasyonu · ASELSAN "Suyun Yarını" katılımı | `RF` `Sensör Ağı` |
-| `2021` | **Labirentten Kaçış Oyunu** | 4 eksende joystick kontrolü; 300.000 kişilik Bilim Şenliği'nde kalıcı sergi düzeneği | `Arduino UNO` |
-| `2021` | **Hologram Clock & Eşzamanlı Hologram** | POV LED saat + kamera görüntüsünü hologram prizmasına hazırlayan işlem hattı | `POV LED` `Python` `OpenCV` |
-| `2020` | **Otonom Araç — Labirent Çözücü** | Ortamı matris olarak bellekte eşleyip çıkış yolunu hesaplar | `Raspberry Pi` |
-| `2019` | **SMPS Devre Kartı — 72 V / 10 A** | 5 katlı PCB · TÜBİTAK Verimlilik Yarışları elektrikli aracının güç birimi | `Güç Elektroniği` `PCB` |
+<img src="https://raw.githubusercontent.com/EmreOzkull/EmreOzkull/main/assets/projeler.svg" alt="Öne çıkan projeler" width="100%"/>
 
 <div align="center">
   <br/>
@@ -131,8 +122,36 @@ class EmreOzkul:
 
 ## 📄 Akademik Makaleler
 
-- **Autonomous Hydroponic Farming System and Lettuce Growing** — *Utenos Kolegija*, 2023 · [ResearchGate ↗](https://www.researchgate.net/publication/378336261_AUTONOMOUS_HYDROPONIC_FARMING_SYSTEM_AND_LETTUCE_GROWING)
-- **Determination of the Area Index of Lettuce Leaves with a Monocular Camera** — *Kauno Kolegija*, 2023
+<table>
+<tr>
+<td width="50%" valign="top">
+
+![2023](https://img.shields.io/badge/2023-0d1117?style=flat-square&labelColor=00E5FF&color=0d1117)
+
+**Autonomous Hydroponic Farming System and Lettuce Growing**
+
+Otonom hidroponik tarım sistemi ve marul yetiştirme üzerine saha çalışması.
+
+`Utenos Kolegija` · uluslararası dergi
+
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-makaleyi%20oku-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/publication/378336261_AUTONOMOUS_HYDROPONIC_FARMING_SYSTEM_AND_LETTUCE_GROWING)
+
+</td>
+<td width="50%" valign="top">
+
+![2023](https://img.shields.io/badge/2023-0d1117?style=flat-square&labelColor=00E5FF&color=0d1117)
+
+**Determination of the Area Index of Lettuce Leaves with a Monocular Camera**
+
+Tek kameralı görüntüden marul yaprak alan indeksinin belirlenmesi.
+
+`Kauno Kolegija` · uluslararası dergi
+
+![Yayınlandı](https://img.shields.io/badge/Yay%C4%B1nland%C4%B1-2023-1e2836?style=for-the-badge&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub
 

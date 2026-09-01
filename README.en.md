@@ -72,20 +72,7 @@ class EmreOzkul:
 
 ## 🗂️ Experience
 
-```
-2025 ─┬─▸ Robotics Systems Electronics Team Lead · Assuva Aerospace
-      │   └─ robotic arm & robotic dog · PCB design · sensor integration · technical leadership
-2023 ─┼─▸ Summer Intern — Embedded Systems / Hardware Design · Utenos Kolegija, Lithuania
-      │   └─ autonomous hydroponic farming · embedded automation · 2 international papers
-2022 ─┼─▸ Summer Intern — Embedded Systems · YONGATEK Microelectronics
-      │   └─ defence-industry project circuit design · I2C sensor optimisation on UPBoard
-2020 ─┼─▸ Embedded Systems Development Engineer · Konya Science Center  (2020–2023)
-      │   └─ Raspberry Pi · PIC · Jetson Nano · Arduino — robotics projects & exhibits
-2020 ─┼─▸ Writer & Editor · Mert Mekatronik  (2020–2021)
-      │   └─ technical articles · editing · social media coordination
-2019 ─┴─▸ Student Assistant · KTO Karatay University  (2019–2020)
-          └─ assistant to the Head of Electrical & Electronics Engineering Department
-```
+<img src="https://raw.githubusercontent.com/EmreOzkull/EmreOzkull/main/assets/experience.svg" alt="Experience timeline" width="100%"/>
 
 ## 🔧 Selected Projects
 

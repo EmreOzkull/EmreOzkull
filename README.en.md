@@ -86,13 +86,12 @@ class EmreOzkul:
 
 ![2023](https://img.shields.io/badge/2023-0d1117?style=flat-square&labelColor=00E5FF&color=0d1117)
 
-**Autonomous Hydroponic Farming System and Lettuce Growing**
+**[Autonomous Hydroponic Farming System and Lettuce Growing](https://www.researchgate.net/publication/378336261_AUTONOMOUS_HYDROPONIC_FARMING_SYSTEM_AND_LETTUCE_GROWING)**
 
 Field study on an autonomous hydroponic farming system and lettuce growth.
 
 `Utenos Kolegija` · international journal
 
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-read%20the%20paper-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/publication/378336261_AUTONOMOUS_HYDROPONIC_FARMING_SYSTEM_AND_LETTUCE_GROWING)
 
 </td>
 <td width="50%" valign="top">
@@ -105,7 +104,6 @@ Estimating lettuce leaf area index from a single-camera image.
 
 `Kauno Kolegija` · international journal
 
-![Published](https://img.shields.io/badge/Published-2023-1e2836?style=for-the-badge&logoColor=white)
 
 </td>
 </tr>

@@ -128,13 +128,12 @@ class EmreOzkul:
 
 ![2023](https://img.shields.io/badge/2023-0d1117?style=flat-square&labelColor=00E5FF&color=0d1117)
 
-**Autonomous Hydroponic Farming System and Lettuce Growing**
+**[Autonomous Hydroponic Farming System and Lettuce Growing](https://www.researchgate.net/publication/378336261_AUTONOMOUS_HYDROPONIC_FARMING_SYSTEM_AND_LETTUCE_GROWING)**
 
 Otonom hidroponik tarım sistemi ve marul yetiştirme üzerine saha çalışması.
 
 `Utenos Kolegija` · uluslararası dergi
 
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-makaleyi%20oku-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/publication/378336261_AUTONOMOUS_HYDROPONIC_FARMING_SYSTEM_AND_LETTUCE_GROWING)
 
 </td>
 <td width="50%" valign="top">
@@ -147,7 +146,6 @@ Tek kameralı görüntüden marul yaprak alan indeksinin belirlenmesi.
 
 `Kauno Kolegija` · uluslararası dergi
 
-![Yayınlandı](https://img.shields.io/badge/Yay%C4%B1nland%C4%B1-2023-1e2836?style=for-the-badge&logoColor=white)
 
 </td>
 </tr>

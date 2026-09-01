@@ -11,7 +11,6 @@
     .v{font-size:30px;font-weight:700;fill:#f0f6fc}
     .blink{animation:b 1.6s steps(2,start) infinite}
     @keyframes b{50%{opacity:.15}}
-      @media (prefers-reduced-motion:reduce){.blink{animation:none}}
   </style>
   <g clip-path="url(#sc)">
     <rect width="520" height="200" fill="#0d1117"/>
@@ -23,9 +22,9 @@
 
     <text x="24"  y="96"  class="mono v">4</text>
     <text x="24"  y="116" class="mono k">DEPO</text>
-    <text x="148" y="96"  class="mono v" fill="#FFB000">35</text>
+    <text x="148" y="96"  class="mono v" fill="#FFB000">199</text>
     <text x="148" y="116" class="mono k">KATKI / YIL</text>
-    <text x="272" y="96"  class="mono v" fill="#00E5FF">18</text>
+    <text x="272" y="96"  class="mono v" fill="#00E5FF">23</text>
     <text x="272" y="116" class="mono k">BİRLEŞEN PR</text>
     <text x="396" y="96"  class="mono v">2</text>
     <text x="396" y="116" class="mono k">TAKİPÇİ</text>

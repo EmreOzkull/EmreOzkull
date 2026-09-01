@@ -76,20 +76,39 @@ class EmreOzkul:
 
 ## 🔧 Selected Projects
 
-| Year | Project | Highlight | Tech |
-|:----:|:--------|:----------|:-----|
-| `2023` | **6-Axis Motion-Memorising Robotic Arm** | 5 steppers + 1 servo, 3 joysticks; records motions and replays them on a button press | `PIC18F46K22` `CCS C` `PCB` |
-| `2023` | **Vision-Assisted Autonomous Defence System** | Friend / foe / civilian classification, 2-axis turret, UART link to the MCU | `Python` `OpenCV` `PIC` `UART` |
-| `2022` | **DotMatrix Electronic Hourglass** | 2× 8×8 matrices, 60 s / 60 min modes; a servo flips the hourglass when time runs out | `PIC18F46K22` `Servo` |
-| `2021` | **Autonomous Agricultural Project** | RF remote-controlled greenhouse automation · ASELSAN "Future of Water" entry | `RF` `Sensor Network` |
-| `2021` | **Maze Escape Game** | 4-axis joystick control; permanent exhibit at a science festival with 300,000 visitors | `Arduino UNO` |
-| `2021` | **Hologram Clock & Real-Time Hologram** | POV LED clock + pipeline preparing camera frames for a hologram prism | `POV LED` `Python` `OpenCV` |
-| `2020` | **Autonomous Vehicle — Maze Solver** | Maps the environment as a matrix in memory and computes the exit path | `Raspberry Pi` |
-| `2019` | **SMPS Board — 72 V / 10 A** | 5-layer PCB · power unit of the electric vehicle for TÜBİTAK Efficiency Challenge | `Power Electronics` `PCB` |
+<img src="https://raw.githubusercontent.com/EmreOzkull/EmreOzkull/main/assets/projects.svg" alt="Selected projects" width="100%"/>
 
 ## 📄 Publications
 
-- **Autonomous Hydroponic Farming System and Lettuce Growing** — *Utenos Kolegija*, 2023 · [ResearchGate ↗](https://www.researchgate.net/publication/378336261_AUTONOMOUS_HYDROPONIC_FARMING_SYSTEM_AND_LETTUCE_GROWING)
-- **Determination of the Area Index of Lettuce Leaves with a Monocular Camera** — *Kauno Kolegija*, 2023
+<table>
+<tr>
+<td width="50%" valign="top">
+
+![2023](https://img.shields.io/badge/2023-0d1117?style=flat-square&labelColor=00E5FF&color=0d1117)
+
+**Autonomous Hydroponic Farming System and Lettuce Growing**
+
+Field study on an autonomous hydroponic farming system and lettuce growth.
+
+`Utenos Kolegija` · international journal
+
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-read%20the%20paper-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/publication/378336261_AUTONOMOUS_HYDROPONIC_FARMING_SYSTEM_AND_LETTUCE_GROWING)
+
+</td>
+<td width="50%" valign="top">
+
+![2023](https://img.shields.io/badge/2023-0d1117?style=flat-square&labelColor=00E5FF&color=0d1117)
+
+**Determination of the Area Index of Lettuce Leaves with a Monocular Camera**
+
+Estimating lettuce leaf area index from a single-camera image.
+
+`Kauno Kolegija` · international journal
+
+![Published](https://img.shields.io/badge/Published-2023-1e2836?style=for-the-badge&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 <img src="https://raw.githubusercontent.com/EmreOzkull/EmreOzkull/main/assets/footer.svg" alt="if the circuit works, don't touch it." width="100%"/>

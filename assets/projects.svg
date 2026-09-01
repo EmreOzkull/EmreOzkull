@@ -1,0 +1,101 @@
+<svg width="1200" height="638" viewBox="0 0 1200 638" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Selected projects">
+  <style>
+    .sans{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+    .mono{font-family:'Cascadia Code','JetBrains Mono','Fira Code',Consolas,monospace}
+  </style>
+  <rect width="1200" height="638" fill="#0d1117"/>
+  <g>
+    <rect x="22" y="22" width="566" height="138" rx="12" fill="#0f1520" stroke="#1e2836" stroke-width="1.5"/>
+    <rect x="22" y="36" width="3" height="110" rx="1.5" fill="#FFB000"/>
+    <rect x="40" y="38" width="52" height="21" rx="10.5" fill="#231a06" stroke="#FFB000" stroke-width="1.1"/>
+    <text x="66" y="53" text-anchor="middle" class="mono" font-size="11.5" fill="#FFB000">2023</text>
+    <text x="102" y="54" class="sans" font-size="16" font-weight="600" fill="#EDF2F7">6-Axis Motion-Memorising Robotic Arm</text>
+    <text x="41" y="82" class="sans" font-size="12.8" fill="#7d8da1">5 steppers + 1 servo driven by 3 joysticks; records</text>
+    <text x="41" y="100" class="sans" font-size="12.8" fill="#7d8da1">motion and replays it with one button</text>
+    <rect x="40" y="126" width="93" height="21" rx="5" fill="#131b26" stroke="#27303d" stroke-width="1"/>
+    <text x="86" y="141" text-anchor="middle" class="mono" font-size="10.5" fill="#9fb3c8">PIC18F46K22</text>
+    <rect x="140" y="126" width="52" height="21" rx="5" fill="#131b26" stroke="#27303d" stroke-width="1"/>
+    <text x="166" y="141" text-anchor="middle" class="mono" font-size="10.5" fill="#9fb3c8">CCS C</text>
+    <rect x="199" y="126" width="38" height="21" rx="5" fill="#131b26" stroke="#27303d" stroke-width="1"/>
+    <text x="218" y="141" text-anchor="middle" class="mono" font-size="10.5" fill="#9fb3c8">PCB</text>
+    <rect x="602" y="22" width="566" height="138" rx="12" fill="#0f1520" stroke="#1e2836" stroke-width="1.5"/>
+    <rect x="602" y="36" width="3" height="110" rx="1.5" fill="#FFB000"/>
+    <rect x="620" y="38" width="52" height="21" rx="10.5" fill="#231a06" stroke="#FFB000" stroke-width="1.1"/>
+    <text x="646" y="53" text-anchor="middle" class="mono" font-size="11.5" fill="#FFB000">2023</text>
+    <text x="682" y="54" class="sans" font-size="16" font-weight="600" fill="#EDF2F7">Vision-Assisted Autonomous Defence System</text>
+    <text x="621" y="82" class="sans" font-size="12.8" fill="#7d8da1">Friend / hostile / civilian classification, 2-axis</text>
+    <text x="621" y="100" class="sans" font-size="12.8" fill="#7d8da1">turret, commands to the MCU over UART</text>
+    <rect x="620" y="126" width="59" height="21" rx="5" fill="#131b26" stroke="#27303d" stroke-width="1"/>
+    <text x="650" y="141" text-anchor="middle" class="mono" font-size="10.5" fill="#9fb3c8">Python</text>
+    <rect x="686" y="126" width="59" height="21" rx="5" fill="#131b26" stroke="#27303d" stroke-width="1"/>
+    <text x="716" y="141" text-anchor="middle" class="mono" font-size="10.5" fill="#9fb3c8">OpenCV</text>
+    <rect x="752" y="126" width="38" height="21" rx="5" fill="#131b26" stroke="#27303d" stroke-width="1"/>
+    <text x="771" y="141" text-anchor="middle" class="mono" font-size="10.5" fill="#9fb3c8">PIC</text>
+    <rect x="797" y="126" width="45" height="21" rx="5" fill="#131b26" stroke="#27303d" stroke-width="1"/>
+    <text x="820" y="141" text-anchor="middle" class="mono" font-size="10.5" fill="#9fb3c8">UART</text>
+    <rect x="22" y="174" width="566" height="138" rx="12" fill="#0f1520" stroke="#1e2836" stroke-width="1.5"/>
+    <rect x="22" y="188" width="3" height="110" rx="1.5" fill="#00E5FF"/>
+    <rect x="40" y="190" width="52" height="21" rx="10.5" fill="#062028" stroke="#00E5FF" stroke-width="1.1"/>
+    <text x="66" y="205" text-anchor="middle" class="mono" font-size="11.5" fill="#00E5FF">2022</text>
+    <text x="102" y="206" class="sans" font-size="16" font-weight="600" fill="#EDF2F7">DotMatrix Electronic Hourglass</text>
+    <text x="41" y="234" class="sans" font-size="12.8" fill="#7d8da1">2× 8×8 matrix, 60 s and 60 min modes; a servo flips</text>
+    <text x="41" y="252" class="sans" font-size="12.8" fill="#7d8da1">the hourglass 180° when time runs out</text>
+    <rect x="40" y="278" width="93" height="21" rx="5" fill="#131b26" stroke="#27303d" stroke-width="1"/>
+    <text x="86" y="293" text-anchor="middle" class="mono" font-size="10.5" fill="#9fb3c8">PIC18F46K22</text>
+    <rect x="140" y="278" width="52" height="21" rx="5" fill="#131b26" stroke="#27303d" stroke-width="1"/>
+    <text x="166" y="293" text-anchor="middle" class="mono" font-size="10.5" fill="#9fb3c8">Servo</text>
+    <rect x="602" y="174" width="566" height="138" rx="12" fill="#0f1520" stroke="#1e2836" stroke-width="1.5"/>
+    <rect x="602" y="188" width="3" height="110" rx="1.5" fill="#00E5FF"/>
+    <rect x="620" y="190" width="52" height="21" rx="10.5" fill="#062028" stroke="#00E5FF" stroke-width="1.1"/>
+    <text x="646" y="205" text-anchor="middle" class="mono" font-size="11.5" fill="#00E5FF">2021</text>
+    <text x="682" y="206" class="sans" font-size="16" font-weight="600" fill="#EDF2F7">Autonomous Agricultural Project</text>
+    <text x="621" y="234" class="sans" font-size="12.8" fill="#7d8da1">Greenhouse automation controlled remotely over RF</text>
+    <text x="621" y="252" class="sans" font-size="12.8" fill="#7d8da1">Entered ASELSAN "Future of Water" competition</text>
+    <rect x="620" y="278" width="31" height="21" rx="5" fill="#131b26" stroke="#27303d" stroke-width="1"/>
+    <text x="636" y="293" text-anchor="middle" class="mono" font-size="10.5" fill="#9fb3c8">RF</text>
+    <rect x="658" y="278" width="114" height="21" rx="5" fill="#131b26" stroke="#27303d" stroke-width="1"/>
+    <text x="715" y="293" text-anchor="middle" class="mono" font-size="10.5" fill="#9fb3c8">Sensor Network</text>
+    <rect x="22" y="326" width="566" height="138" rx="12" fill="#0f1520" stroke="#1e2836" stroke-width="1.5"/>
+    <rect x="22" y="340" width="3" height="110" rx="1.5" fill="#00E5FF"/>
+    <rect x="40" y="342" width="52" height="21" rx="10.5" fill="#062028" stroke="#00E5FF" stroke-width="1.1"/>
+    <text x="66" y="357" text-anchor="middle" class="mono" font-size="11.5" fill="#00E5FF">2021</text>
+    <text x="102" y="358" class="sans" font-size="16" font-weight="600" fill="#EDF2F7">Maze Escape Game</text>
+    <text x="41" y="386" class="sans" font-size="12.8" fill="#7d8da1">4-axis joystick control; permanent exhibit at a</text>
+    <text x="41" y="404" class="sans" font-size="12.8" fill="#7d8da1">science festival attended by 300,000 people</text>
+    <rect x="40" y="430" width="93" height="21" rx="5" fill="#131b26" stroke="#27303d" stroke-width="1"/>
+    <text x="86" y="445" text-anchor="middle" class="mono" font-size="10.5" fill="#9fb3c8">Arduino UNO</text>
+    <rect x="602" y="326" width="566" height="138" rx="12" fill="#0f1520" stroke="#1e2836" stroke-width="1.5"/>
+    <rect x="602" y="340" width="3" height="110" rx="1.5" fill="#00E5FF"/>
+    <rect x="620" y="342" width="52" height="21" rx="10.5" fill="#062028" stroke="#00E5FF" stroke-width="1.1"/>
+    <text x="646" y="357" text-anchor="middle" class="mono" font-size="11.5" fill="#00E5FF">2021</text>
+    <text x="682" y="358" class="sans" font-size="16" font-weight="600" fill="#EDF2F7">Hologram Clock and Real-Time Hologram</text>
+    <text x="621" y="386" class="sans" font-size="12.8" fill="#7d8da1">POV LED clock, plus a pipeline preparing camera</text>
+    <text x="621" y="404" class="sans" font-size="12.8" fill="#7d8da1">frames for a holographic prism</text>
+    <rect x="620" y="430" width="66" height="21" rx="5" fill="#131b26" stroke="#27303d" stroke-width="1"/>
+    <text x="653" y="445" text-anchor="middle" class="mono" font-size="10.5" fill="#9fb3c8">POV LED</text>
+    <rect x="693" y="430" width="59" height="21" rx="5" fill="#131b26" stroke="#27303d" stroke-width="1"/>
+    <text x="722" y="445" text-anchor="middle" class="mono" font-size="10.5" fill="#9fb3c8">Python</text>
+    <rect x="759" y="430" width="59" height="21" rx="5" fill="#131b26" stroke="#27303d" stroke-width="1"/>
+    <text x="788" y="445" text-anchor="middle" class="mono" font-size="10.5" fill="#9fb3c8">OpenCV</text>
+    <rect x="22" y="478" width="566" height="138" rx="12" fill="#0f1520" stroke="#1e2836" stroke-width="1.5"/>
+    <rect x="22" y="492" width="3" height="110" rx="1.5" fill="#7d8da1"/>
+    <rect x="40" y="494" width="52" height="21" rx="10.5" fill="#141a22" stroke="#7d8da1" stroke-width="1.1"/>
+    <text x="66" y="509" text-anchor="middle" class="mono" font-size="11.5" fill="#7d8da1">2020</text>
+    <text x="102" y="510" class="sans" font-size="16" font-weight="600" fill="#EDF2F7">Autonomous Vehicle — Maze Solver</text>
+    <text x="41" y="538" class="sans" font-size="12.8" fill="#7d8da1">Maps the environment as a matrix in memory and</text>
+    <text x="41" y="556" class="sans" font-size="12.8" fill="#7d8da1">computes the exit path</text>
+    <rect x="40" y="582" width="100" height="21" rx="5" fill="#131b26" stroke="#27303d" stroke-width="1"/>
+    <text x="90" y="597" text-anchor="middle" class="mono" font-size="10.5" fill="#9fb3c8">Raspberry Pi</text>
+    <rect x="602" y="478" width="566" height="138" rx="12" fill="#0f1520" stroke="#1e2836" stroke-width="1.5"/>
+    <rect x="602" y="492" width="3" height="110" rx="1.5" fill="#7d8da1"/>
+    <rect x="620" y="494" width="52" height="21" rx="10.5" fill="#141a22" stroke="#7d8da1" stroke-width="1.1"/>
+    <text x="646" y="509" text-anchor="middle" class="mono" font-size="11.5" fill="#7d8da1">2019</text>
+    <text x="682" y="510" class="sans" font-size="16" font-weight="600" fill="#EDF2F7">SMPS Board — 72 V / 10 A</text>
+    <text x="621" y="538" class="sans" font-size="12.8" fill="#7d8da1">5-layer PCB; power unit of the electric vehicle</text>
+    <text x="621" y="556" class="sans" font-size="12.8" fill="#7d8da1">built for the TÜBİTAK Efficiency Challenge</text>
+    <rect x="620" y="582" width="135" height="21" rx="5" fill="#131b26" stroke="#27303d" stroke-width="1"/>
+    <text x="688" y="597" text-anchor="middle" class="mono" font-size="10.5" fill="#9fb3c8">Power Electronics</text>
+    <rect x="762" y="582" width="38" height="21" rx="5" fill="#131b26" stroke="#27303d" stroke-width="1"/>
+    <text x="781" y="597" text-anchor="middle" class="mono" font-size="10.5" fill="#9fb3c8">PCB</text>
+  </g>
+</svg>

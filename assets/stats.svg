@@ -22,11 +22,11 @@
 
     <text x="24"  y="96"  class="mono v">4</text>
     <text x="24"  y="116" class="mono k">DEPO</text>
-    <text x="148" y="96"  class="mono v" fill="#FFB000">358</text>
+    <text x="148" y="96"  class="mono v" fill="#FFB000">361</text>
     <text x="148" y="116" class="mono k">KATKI / YIL</text>
     <text x="272" y="96"  class="mono v" fill="#00E5FF">25</text>
     <text x="272" y="116" class="mono k">BİRLEŞEN PR</text>
-    <text x="396" y="96"  class="mono v">2</text>
+    <text x="396" y="96"  class="mono v">3</text>
     <text x="396" y="116" class="mono k">TAKİPÇİ</text>
 
     <text x="24"  y="176" class="mono" font-size="12" fill="#3b4f66">2019'dan beri GitHub'da</text>
